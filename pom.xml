@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>autofill-event</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>Autofill event polyfill</name>
     <description>WebJar for Autofill event polyfill</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/autofill-event</url>
         <connection>scm:git:https://github.com/webjars/autofill-event.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/autofill-event.git</developerConnection>
-        <tag>autofill-event-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
